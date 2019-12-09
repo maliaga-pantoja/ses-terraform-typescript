@@ -1,0 +1,6 @@
+dist
+input_data
+logs
+node_modules
+*.log
+.vscode
